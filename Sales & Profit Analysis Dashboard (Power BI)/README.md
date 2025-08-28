@@ -34,11 +34,10 @@ It highlights key KPIs and trends to support **data-driven decision making**.
 
 ---
 
-## 🔹 Screenshots  
-(Add your dashboard images here — you can upload PNGs or JPEGs in the repo and link them like below 👇)  
+## 🔹 Screenshot 
 
-Example:  
 
+![Sales & Profit Dashboard](./Dashboard/sales_profit_dashboard.png)
 
 
 ---
