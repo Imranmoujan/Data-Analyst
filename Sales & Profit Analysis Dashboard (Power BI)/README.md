@@ -22,14 +22,12 @@ It highlights key KPIs and trends to support **data-driven decision making**.
 - Units Sold by Product (**Donut chart**)  
 - Discounts by Product (**Treemap**)  
 - Sales & Profit by Product (**Line & Column chart**)  
-- Dynamic Filters (**Year, Product, Country**)  
+- Dynamic Filters 
 
 ---
 
 ## 🔹 Tools & Skills Used  
-- **Power BI** (Data Visualization, Dashboard Design)  
-- **DAX** (Calculated Measures & KPIs)  
-- **Data Modeling** (Relationships, Hierarchies)  
+- **Power BI** (Data Visualization, Dashboard Design)    
 - **Excel** (Data Source)  
 
 ---
